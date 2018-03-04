@@ -1,6 +1,6 @@
 {
     "name" : "tuhin18003/codeigniter-form-builder",
-    "type": "library",
+    "type": "codeigniter-library",
     "description" : "Easily create form in Codeigniter framework.",
     "keywords" : [ "codeigniter", "form", "codeigniter form", "codeigniter bootstrap" ],
     "homepage" : "https://github.com/tuhin18003/codeigniter-form-builder",
