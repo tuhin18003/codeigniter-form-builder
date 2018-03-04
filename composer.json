@@ -1,0 +1,27 @@
+{
+    "name" : "tuhin18003/codeigniter-form-builder",
+    "type": "library",
+    "description" : "Easily create form in Codeigniter framework.",
+    "keywords" : [ "codeigniter", "form", "codeigniter form", "codeigniter bootstrap" ],
+    "homepage" : "https://github.com/tuhin18003/codeigniter-form-builder",
+    "license" : "MIT",
+    "authors" : [
+        {
+            "name" : "M.Tuhin",
+            "email" : "tuhin@codesolz.com",
+            "homepage" : "http://tuhin.codesolz.com/",
+            "role" : "Developer"
+        }
+    ],
+    "autoload" : {
+        "psr-4" : { "Cs_form\\" : "src/Cs_form" }
+    },
+    "require" : {
+        "php" : ">=5.5.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
